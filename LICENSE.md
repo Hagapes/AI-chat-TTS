@@ -6,7 +6,7 @@ This project is licensed under the MIT License.
 
 ## Use of Third-Party APIs
 
-This project utilizes the Text-to-Speech (TTS) API from [Play.ht](https://play.ht/text-to-speech/) as a wrapper for audio generation. The API is not directly accessible to the public, and this project does not host or distribute the API itself. Instead, it integrates with the API to provide TTS functionality.
+This project utilizes the Text-to-Speech (TTS) API from [Play.ht](https://play.ht/text-to-speech/) as a wrapper for audio generation, and this project does not host or distribute the API itself. Instead, it integrates with the API to provide TTS functionality.
 
 ### Important Note
 
